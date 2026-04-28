@@ -24,7 +24,7 @@
 
 ### Daily Practice
 * **Hacksplaining** - Spend about a week here. Teaches you the vocab and concepts of common web vulnerabilities in a digestible way. Don't go too deep. Just get familiar with terms like XSS, SQLi, CSRF so you understand them in the future.
-  https://www.hacksplaining.com/exercises
+  https://www.hacksplaining.com/lessons
 
 * **Linux Journey** - Start this alongside Hacksplaining. Linux is used in almost every lab in every phase. Cover at minimum: command line navigation, file system, permissions, and basic networking.
   https://linuxjourney.com
