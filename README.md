@@ -23,11 +23,15 @@
 **Goal:** Get comfy with vocab, concepts, and the Linux command line. Short phase — don't linger here.
 
 ### Daily Practice
-* **Hacksplaining** - Spend about a week here. Teaches you the vocab and concepts of common web vulnerabilities in a digestible way. Don't go too deep. Just get familiar with terms like XSS, SQLi, CSRF so you understand them in the future.
+* **Hacksplaining** - Teaches you the vocab and concepts of common web vulnerabilities in a digestible way. Don't go too deep. Just get familiar with terms like XSS, SQLi, CSRF so you understand them in the future.
   https://www.hacksplaining.com/lessons
+  * Go through all the lessons except for the AI ones (Unless you want to do those for fun)
 
-* **Linux Journey** - Start this alongside Hacksplaining. Linux is used in almost every lab in every phase. Cover at minimum: command line navigation, file system, permissions, and basic networking.
+* **Linux Journey** - Linux is used in almost every lab in every phase. Cover the specified sections.
   https://linuxjourney.com
+  * Under "Grasshopper" do everything except "Advanced Text-Fu"
+  * Under "Journeyman" do "The Filesystem", "Logging", and "Process Utilization"
+  * Under "Networking Nomad" do everything
 
 * **CMD Challenge** - Reinforce your Linux command line skills with hands on challenges. Do a few of these daily while you're in Phase 1 and Phase 2.
   https://cmdchallenge.com
