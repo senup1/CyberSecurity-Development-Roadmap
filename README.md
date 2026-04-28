@@ -9,11 +9,11 @@
 ---
 
 ## Categories
-1. [Phase 1 - Basics](#phase-1--basics-weeks-1-2)
-2. [Phase 2 - Core Foundations](#phase-2--core-foundations-weeks-3-10)
-3. [Phase 3 - Web Security Deep Dive](#phase-3--web-security-deep-dive-weeks-11-24)
-4. [Phase 4 - Expanding Skills](#phase-4--expanding-skills-months-6-12)
-5. [Phase 5 - Specialization](#phase-5--specialization-months-9-12)
+1. [Phase 1 - Basics](#phase-1---basics-(weeks-1-2))
+2. [Phase 2 - Core Foundations](#phase-2---core-foundations-(weeks-3-10))
+3. [Phase 3 - Web Security Deep Dive](#phase-3---web-security-deep-dive-(weeks-11-24))
+4. [Phase 4 - Expanding Skills](#phase-4---expanding-skills-(months-6-12))
+5. [Phase 5 - Specialization](#phase-5---specialization-(months-9-12+))
 6. [YouTube Channel](#youtube-channel)
 
 ---
