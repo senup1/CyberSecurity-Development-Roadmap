@@ -30,10 +30,10 @@
 
 * **Linux Journey** - Linux is used in almost every lab in every phase. Cover the specified sections.
   https://linuxjourney.com
-  * Under "Grasshopper" do everything except "Advanced Text-Fu"
+  * Under "Grasshopper" do everything except "Advanced Text-Fu" and "Getting Started"
   * Under "Journeyman" do "The Filesystem", "Logging", and "Process Utilization"
   * Under "Networking Nomad" do everything
-  * (At the time of writing this would be 18 lessons so ~ 1-3 a day is recommended)
+  * (At the time of writing this would be 17 lessons so ~ 1-3 a day is recommended)
 
 * **CMD Challenge** - Reinforce your Linux command line skills with hands on challenges. Do a few of these daily while you're in Phase 1 and Phase 2.
   https://cmdchallenge.com
