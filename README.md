@@ -25,13 +25,15 @@
 ### Daily Practice
 * **Hacksplaining** - Teaches you the vocab and concepts of common web vulnerabilities in a digestible way. Don't go too deep. Just get familiar with terms like XSS, SQLi, CSRF so you understand them in the future.
   https://www.hacksplaining.com/lessons
-  * Go through all the lessons except for the AI ones (Unless you want to do those for fun)
+  * Go through all the lessons except for the AI ones
+  * (At the time of writing there are 39 lessons so ~ 3-6 a day is recommended)
 
 * **Linux Journey** - Linux is used in almost every lab in every phase. Cover the specified sections.
   https://linuxjourney.com
   * Under "Grasshopper" do everything except "Advanced Text-Fu"
   * Under "Journeyman" do "The Filesystem", "Logging", and "Process Utilization"
   * Under "Networking Nomad" do everything
+  * (At the time of writing this would be 18 lessons so ~ 1-3 a day is recommended)
 
 * **CMD Challenge** - Reinforce your Linux command line skills with hands on challenges. Do a few of these daily while you're in Phase 1 and Phase 2.
   https://cmdchallenge.com
