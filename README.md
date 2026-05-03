@@ -28,7 +28,7 @@
   * Go through all the lessons except for the AI ones
   * (At the time of writing there are 39 lessons so ~ 3-6 a day is recommended)
 
-* **Linux Journey** - Linux is used in almost every lab in every phase. Cover the specified sections.
+* **Linux Journey** - Linux is used in almost every lab in every phase. Cover the specified sections. Don't bother making an account or doing the quizzes. Just read, take notes, and practice in terminal.
   https://linuxjourney.com
   * Under "Grasshopper" do everything except "Advanced Text-Fu" and "Getting Started"
   * Under "Journeyman" do "The Filesystem", "Logging", and "Process Utilization"
