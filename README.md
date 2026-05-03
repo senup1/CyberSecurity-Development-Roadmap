@@ -35,9 +35,6 @@
   * Under "Networking Nomad" do everything
   * (At the time of writing this would be 17 lessons so ~ 1-3 a day is recommended)
 
-* **CMD Challenge** - Reinforce your Linux command line skills with hands on challenges. Do a few of these daily while you're in Phase 1 and Phase 2.
-  https://cmdchallenge.com
-
 ---
 
 ## Phase 2 - Core Foundations (Weeks 3-10)
