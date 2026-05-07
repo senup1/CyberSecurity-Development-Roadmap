@@ -30,8 +30,8 @@
 
 * **Linux Journey** - Linux is used in almost every lab in every phase. Cover the specified sections. Don't bother making an account or doing the quizzes. Just read, take notes, and practice in terminal.
   https://linuxjourney.com
-  * Under "Grasshopper" do everything except "Advanced Text-Fu" and "Getting Started"
-  * Under "Journeyman" do "The Filesystem" and "Process Utilization"
+  * Under "Grasshopper" read everything except "Advanced Text-Fu" and "Getting Started"
+  * Under "Journeyman" read lessons 1 and 6 in "The Filesystem" and lesson 8 in "Process Utilization"
   * Under "Networking Nomad" do everything
   * (At the time of writing this would be 17 lessons so ~ 1-3 a day is recommended)
 
