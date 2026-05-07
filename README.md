@@ -18,7 +18,7 @@
 
 ---
 
-## Phase 1 - Basics (Weeks 1-2)
+## Phase 1 - Basics (~1-2 Weeks)
 
 **Goal:** Get comfy with vocab, concepts, and the Linux command line. Short phase — don't linger here.
 
@@ -37,7 +37,7 @@
 
 ---
 
-## Phase 2 - Core Foundations (Weeks 3-10)
+## Phase 2 - Core Foundations (~4-6 Weeks)
 
 **Goal:** Get hands on experience with how systems and vulnerabilities actually work.
 
@@ -49,13 +49,19 @@
 * **PicoCTF (Easy)** - Work through the easy CTFs after getting comfortable with OverTheWire. Reinforces the fundamentals you're building.
   https://picoctf.com
 
-* **Hacker101** - Free web security classes with a CTF attached. The classes give you structure, the CTF gives you real web vulnerability practice. Do both.
-  https://www.hacker101.com,
-  https://ctf.hacker101.com
+* **Hacker101** - Free informational videos with a CTF attached. The videos give you structure, the CTF gives you practice. Watch through the specified playlists and go through the CTF.
+  * Playlists: 
+    * https://www.hacker101.com/playlists/newcomers (watch before starting CTF)
+    * https://www.hacker101.com/playlists/burp_suite (watch before starting CTF)
+    * https://www.hacker101.com/playlists/pentesting_series
+    * https://www.hacker101.com/playlists/web_hacking
+    * https://www.hacker101.com/playlists/cryptography
+  * CTF: 
+    * https://ctf.hacker101.com
 
 ---
 
-## Phase 3 - Web Security Deep Dive (Weeks 11-24)
+## Phase 3 - Web Security Deep Dive (~6-8 Weeks)
 
 **Goal:** Web security is the most job relevant skill. This phase is the longest and most important.
 
@@ -72,7 +78,7 @@
 
 ---
 
-## Phase 4 - Expanding Skills (Months 6-12)
+## Phase 4 - Expanding Skills (~10-12 Weeks)
 
 **Goal:** Build out skills beyond web, full machine pentesting, cryptography, and tooling. Pick what interests you and go deep.
 
@@ -95,12 +101,12 @@
 * **Metasploit Unleashed** - The most complete free guide to Metasploit.
   https://www.offensive-security.com/metasploit-unleashed/
 
-* **flAWS System** - Learn AWS security by exploiting intentional mistakes in a real AWS environment. Pairs directly with your AWS training.
+* **flAWS System** - Learn AWS security by exploiting intentional mistakes in a real AWS environment. Pairs directly with AWS training.
   http://flaws.cloud/
 
 ---
 
-## Phase 5 - Specialization (Months 9-12+)
+## Phase 5 - Specialization (~10-12 Weeks)
 
 **Goal:** Pick a direction and build credentials in it. By this phase you should have a sense of whether you want to go offensive (pentesting, bug bounty), defensive (blue team, threat intel), or cloud security.
 
