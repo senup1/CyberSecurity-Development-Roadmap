@@ -25,7 +25,7 @@
 ### Daily Practice
 * **Hacksplaining** - Teaches you the vocab and concepts of common web vulnerabilities in a digestible way so you understand them in the future.
   https://www.hacksplaining.com/lessons
-  * Go through all lessons <u>except</u> for:
+  * Go through all lessons EXCEPT for:
     * AI: Bias and Unreliability
     * AI: Data Extraction Attacks
     * AI: Prompt Injection
