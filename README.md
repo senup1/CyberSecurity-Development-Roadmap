@@ -20,13 +20,18 @@
 
 ## Phase 1 - Basics (~1-2 Weeks)
 
-**Goal:** Get comfy with vocab, concepts, and the Linux command line. Short phase — don't linger here.
+**Goal:** Get comfy with vocab, concepts, and the Linux command line. Don't linger here.
 
 ### Daily Practice
-* **Hacksplaining** - Teaches you the vocab and concepts of common web vulnerabilities in a digestible way. Don't go too deep. Just get familiar with terms like XSS, SQLi, CSRF so you understand them in the future.
+* **Hacksplaining** - Teaches you the vocab and concepts of common web vulnerabilities in a digestible way so you understand them in the future.
   https://www.hacksplaining.com/lessons
-  * Go through all the lessons except for the AI ones
-  * (At the time of writing there are 39 lessons so ~3-6 a day is recommended)
+  * Go through all the lessons except for:
+    * AI: Bias and Unreliability
+    * AI: Data Extraction Attacks
+    * AI: Prompt Injection
+    * XML Bombs
+    * XML External Entities
+  * (At the time of writing there are 37 lessons so ~3-6 a day is recommended)
 
 * **Linux Journey** - Linux is used in almost every lab in every phase. Cover the specified sections. Don't bother making an account or doing the quizzes. Just read, take notes, and practice in terminal.
   https://linuxjourney.com
