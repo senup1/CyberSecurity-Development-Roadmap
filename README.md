@@ -72,11 +72,8 @@
 
 ### Daily Practice - This Is Your Main Home
 
-* **PortSwigger Web Security Academy** - The best free web security resource that exists. Work through labs systematically. Write a walkthrough for every lab you complete. This should be where the majority of your time goes in this phase.
+* **PortSwigger Web Security Academy** - The best free web security resource that exists. Work through labs systematically. Write a walkthrough for every lab you complete.
   https://portswigger.net/web-security
-
-* **Root-Me** - Broad and practical. Use this alongside PortSwigger to get exposure to challenge types outside of just web security.
-  https://www.root-me.org/
 
 * **PicoCTF (Medium)** - Your skills are sharp enough now to learn from the medium challenges.
   https://picoctf.com
