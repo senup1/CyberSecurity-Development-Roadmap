@@ -36,8 +36,8 @@
   https://linuxjourney.com
   * Under "Grasshopper" read everything except "Advanced Text-Fu" and "Getting Started"
   * Under "Journeyman" read lessons 1 and 6 in "The Filesystem" and lesson 8 in "Process Utilization"
-  * Under "Networking Nomad" do everything
-  * (At the time of writing this would be 15 sections so ~1-3 a day is recommended)
+  * Under "Networking Nomad" read lessons 4 and 5 in "Troubleshooting". Skip "Network Config" and read everything else
+  * (At the time of writing this would be 14 sections so ~1-3 a day is recommended)
 
 ---
 
