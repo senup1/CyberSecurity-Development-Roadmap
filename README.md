@@ -89,9 +89,6 @@
 * **Exploitation Education** - Low-level skills: binary exploitation, memory corruption, format strings. Important if you want to go deeper than web vulnerabilities.
   https://exploit.education/
 
-* **Vulnhub** - Download vulnerable virtual machines and practice pentesting. This simulates real world scenarios more than CTFs do.
-  https://www.vulnhub.com
-
 * **The Cryptopals Crypto Challenges** - If you want to understand cryptography by breaking it rather than just reading about it. Excellent depth, genuinely hard, very rewarding.
   https://cryptopals.com/
 
