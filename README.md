@@ -1,7 +1,6 @@
 # Cybersecurity Learning Roadmap
 
 ## While You Train:
-> These habits will help you get hired.
 - Write walkthroughs of everything you complete
 - Build a GitHub repo of notes and solved labs (This is your portfolio)
 - Explain vulnerabilities in plain English after each lab (If you can't explain it, you don't understand it)
@@ -48,10 +47,10 @@
 
 ### Daily Practice - Work Through These Sequentially
 
-* **OverTheWire** - Start with the Bandit wargame. It's beginner friendly and teaches Linux fundamentals through actual challenges.
+* **OverTheWire (Bandit)** - Work through the Bandit wargame. It's beginner friendly and teaches Linux fundamentals through actual challenges.
   http://overthewire.org
 
-* **PicoCTF (Easy)** - Work through the easy CTFs after getting comfortable with OverTheWire. Reinforces the fundamentals you're building.
+* **PicoCTF (Easy)** - Work through the easy CTFs while getting comfortable with OverTheWire. Reinforces the fundamentals you're building.
   https://picoctf.com
 
 * **Hacker101** - Free informational videos with a CTF attached. The videos give you structure, the CTF gives you practice. Watch through the specified playlists and go through the CTF.
@@ -68,7 +67,7 @@
 
 ## Phase 3 - Web Security Deep Dive (~6-8 Weeks)
 
-**Goal:** Web security is the most job relevant skill. This phase is the longest and most important.
+**Goal:** Web security is the most job relevant skill. This phase is long and important.
 
 ### Daily Practice - This Is Your Main Home
 
@@ -107,12 +106,11 @@
 
 ## Phase 5 - Specialization (~10-12 Weeks)
 
-**Goal:** Pick a direction and build credentials in it. By this phase you should have a sense of whether you want to go offensive (pentesting, bug bounty), defensive (blue team, threat intel), or cloud security.
+**Goal:** Build credentials. By this phase you should have a sense of whether you want to go offensive (pentesting, bug bounty), defensive (blue team, threat intel), or cloud security.
 
 ### Certifications & Credentials
 
-* **Mosse Cyber Security Institute (MICS)** - Free certification with 100+ hours of training, no expiry or renewal fees. Real instructor feedback on submitted work. Good resume credential for entry-level roles.
-  https://www.mosse-institute.com/certifications/mics-introduction-to-cyber-security.html
+* **CompTIA Security+ Certification** - More details will be added in the future...
 
 * **AWS Cloud Certified** - Cloud security skills are in high demand. Training is free, exam is $100. Worth it when you're ready to specialize in cloud.
   https://www.youtube.com/watch?v=3hLmDS179YE *(Requires an AWS account)*
@@ -120,7 +118,7 @@
 ### Threat Intelligence / Blue Team Path
 
 * **ATT&CK Cyber Threat Intelligence Training** - 4-hour training on how to use the MITRE ATT&CK framework for threat intelligence. Teaches you how attackers are categorized and tracked — a blue team mindset that employers care about.
-  https://attack.mitre.org/resources/training/cti/
+  https://www.youtube.com/playlist?list=PLLGRmm150VfBd_bk6fGqTqxr8SBeDcprb
 
 ---
 
