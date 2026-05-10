@@ -49,8 +49,8 @@
 * **OverTheWire (Bandit)** - Work through the Bandit wargame. It's beginner friendly and teaches Linux fundamentals through actual challenges.
   http://overthewire.org
 
-* **PicoCTF (Easy)** - Work through the easy CTFs while getting comfortable with OverTheWire. Reinforces the fundamentals you're building.
-  https://picoctf.com
+* **CyLab (Easy)** - Work through the easy CTFs while getting comfortable with OverTheWire. Reinforces the fundamentals you're building.
+  https://cylabacademy.org/
 
 * **Hacker101** - Free informational videos with a CTF attached. The videos give you structure, the CTF gives you practice. Watch through the specified playlists and go through the CTF.
   * Playlists:
@@ -76,8 +76,8 @@
 * **OverTheWire (Natas)** - Next Level of OverTheWire. Pairs well with PortSwigger.
   http://overthewire.org/wargames/natas/
 
-* **PicoCTF (Medium)** - Your skills are sharp enough now to learn from the medium challenges.
-  https://picoctf.com
+* **CyLab (Medium)** - Your skills are sharp enough now to learn from the medium challenges.
+  https://cylabacademy.org/
 
 ### Supplemental - Watch Alongside Labs
 * **LiveOverflow - Web Hacking Playlist** - Watch alongside PortSwigger. Helps concepts click by seeing how an experienced person thinks through web vulnerabilities.
@@ -100,8 +100,8 @@
 * **The Cryptopals Crypto Challenges** - If you want to understand cryptography by breaking it rather than just reading about it. Excellent depth, genuinely hard, very rewarding.
   https://cryptopals.com/
 
-* **PicoCTF (Hard)** - By now you have the background in binary exploitation and cryptography to tackle the hard challenges meaningfully rather than just guessing.
-  https://picoctf.com
+* **CyLab (Hard)** - By now you have the background in binary exploitation and cryptography to tackle the hard challenges meaningfully rather than just guessing.
+  https://cylabacademy.org/
 
 ### When You're Ready - Add These
 
