@@ -10,10 +10,9 @@
 ## Categories
 1. [Phase 1 - Basics](#phase-1---basics-1-2-weeks)
 2. [Phase 2 - Core Foundations](#phase-2---core-foundations-4-6-weeks)
-3. [Phase 3 - Web Security Deep Dive](#phase-3---web-security-deep-dive-6-8-weeks)
-4. [Phase 4 - Expanding Skills](#phase-4---expanding-skills-10-12-weeks)
+3. [Phase 3 - Deep Dive](#phase-3---deep-dive-6-8-weeks)
+4. [Phase 4 - Expanding](#phase-4---expanding-10-12-weeks)
 5. [Phase 5 - Specialization](#phase-5---specialization-10-12-weeks)
-6. [YouTube Channel](#youtube-channel)
 
 ---
 
@@ -54,36 +53,46 @@
   https://picoctf.com
 
 * **Hacker101** - Free informational videos with a CTF attached. The videos give you structure, the CTF gives you practice. Watch through the specified playlists and go through the CTF.
-  * Playlists: 
+  * Playlists:
     * https://www.hacker101.com/playlists/newcomers (watch before starting CTF)
     * https://www.hacker101.com/playlists/burp_suite (watch before starting CTF)
     * https://www.hacker101.com/playlists/pentesting_series
     * https://www.hacker101.com/playlists/web_hacking
     * https://www.hacker101.com/playlists/cryptography
-  * CTF: 
+  * CTF:
     * https://ctf.hacker101.com
 
 ---
 
-## Phase 3 - Web Security Deep Dive (~6-8 Weeks)
+## Phase 3 - Deep Dive (~6-8 Weeks)
 
-**Goal:** Web security is the most job relevant skill. This phase is long and important.
+**Goal:** Diving deeper into many of the topics covered in the past phases.
 
 ### Daily Practice - This Is Your Main Home
 
 * **PortSwigger Web Security Academy** - The best free web security resource that exists. Work through labs systematically. Write a walkthrough for every lab you complete.
   https://portswigger.net/web-security
 
+* **OverTheWire (Natas)** - Next Level of OverTheWire. Pairs well with PortSwigger.
+  http://overthewire.org/wargames/natas/
+
 * **PicoCTF (Medium)** - Your skills are sharp enough now to learn from the medium challenges.
   https://picoctf.com
 
+### Supplemental - Watch Alongside Labs
+* **LiveOverflow - Web Hacking Playlist** - Watch alongside PortSwigger. Helps concepts click by seeing how an experienced person thinks through web vulnerabilities.
+  https://www.youtube.com/playlist?list=PLhixgUqwRTjx2BmNF5-GddyqZcizwLLGP
+
 ---
 
-## Phase 4 - Expanding Skills (~10-12 Weeks)
+## Phase 4 - Expanding (~10-12 Weeks)
 
 **Goal:** Build out skills beyond web, full machine pentesting, cryptography, and tooling. Pick what interests you and go deep.
 
 ### Daily Practice - Pick Based on Your Interests
+
+* **OverTheWire (Leviathan)** - Final fundamental wargame from OverTheWire. Good warmup before Exploitation Education.
+  http://overthewire.org/wargames/leviathan/
 
 * **Exploitation Education** - Low-level skills: binary exploitation, memory corruption, format strings. Important if you want to go deeper than web vulnerabilities.
   https://exploit.education/
@@ -102,6 +111,10 @@
 * **flAWS System** - Learn AWS security by exploiting intentional mistakes in a real AWS environment. Pairs directly with AWS training.
   http://flaws.cloud/
 
+### Supplemental - Watch Alongside Labs
+* **LiveOverflow - Binary Exploitation Playlist** - Watch alongside Exploitation Education. Covers binary exploitation from beginner to advanced.
+  https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
+
 ---
 
 ## Phase 5 - Specialization (~10-12 Weeks)
@@ -119,12 +132,3 @@
 
 * **ATT&CK Cyber Threat Intelligence Training** - 4-hour training on how to use the MITRE ATT&CK framework for threat intelligence. Teaches you how attackers are categorized and tracked — a blue team mindset that employers care about.
   https://www.youtube.com/playlist?list=PLLGRmm150VfBd_bk6fGqTqxr8SBeDcprb
-
----
-
-## YouTube Channel
-
-**How to use this:** This is supplemental, not primary. Just watch while eating, commuting, or winding down. They help you absorb the culture and see how experienced people think.
-
-* **LiveOverflow** — Watch "Web Hacking" playlist during phase 3 alongside PortSwigger and "Binary Exploitation" during phase 4.
-  https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
