@@ -52,14 +52,12 @@
 * **CyLab (Easy)** - Work through the easy CTFs while getting comfortable with OverTheWire. Reinforces the fundamentals you're building.
   https://cylabacademy.org/
 
-* **Hacker101** - Free informational videos with a CTF attached. The videos give you structure, the CTF gives you practice. Watch through the specified playlists and go through the CTF.
+* **Hacker101** - Free informational videos give you structure. Watch through the specified playlists.
   * Playlists:
-    * https://www.hacker101.com/playlists/burp_suite (watch before starting CTF)
+    * https://www.hacker101.com/playlists/burp_suite
     * https://www.hacker101.com/playlists/pentesting_series
     * https://www.hacker101.com/playlists/web_hacking
     * https://www.hacker101.com/playlists/cryptography
-  * CTF:
-    * https://ctf.hacker101.com
 
 ---
 
