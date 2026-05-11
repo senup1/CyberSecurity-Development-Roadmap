@@ -54,7 +54,6 @@
 
 * **Hacker101** - Free informational videos with a CTF attached. The videos give you structure, the CTF gives you practice. Watch through the specified playlists and go through the CTF.
   * Playlists:
-    * https://www.hacker101.com/playlists/newcomers (watch before starting CTF)
     * https://www.hacker101.com/playlists/burp_suite (watch before starting CTF)
     * https://www.hacker101.com/playlists/pentesting_series
     * https://www.hacker101.com/playlists/web_hacking
