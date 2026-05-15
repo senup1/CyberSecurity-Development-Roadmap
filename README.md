@@ -54,7 +54,7 @@
 
 * **Hacker101** - Free informational videos give you structure. Watch through the specified playlists.
   * Playlists:
-    * https://www.hacker101.com/playlists/pentesting_series
+    * https://www.youtube.com/watch?v=AO_sqXb-gKE (single video)
     * https://www.hacker101.com/playlists/web_hacking
     * https://www.hacker101.com/playlists/cryptography
 
